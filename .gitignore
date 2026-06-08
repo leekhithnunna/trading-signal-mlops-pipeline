@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+.vscode/
+.kiro/
+.DS_Store
+Thumbs.db
